@@ -1,2 +1,5 @@
-# cmput404
- Everything related to CMPUT404
+# CMPUT 404
+
+Provided are all of the labs for CMPUT 404.
+
+
