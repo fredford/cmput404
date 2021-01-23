@@ -36,3 +36,7 @@ The server prints out whatever message is sent to the server in the form of utf-
 # Question 6
 
 https://github.com/fredford/cmput404/tree/main/lab2
+
+# Collaboration
+
+Code was modified from what was provided and shown by the TA's in the lab.
