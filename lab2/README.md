@@ -35,4 +35,4 @@ The server prints out whatever message is sent to the server in the form of utf-
 
 # Question 6
 
-https://github.com/fredford/cmput404_lab2
+https://github.com/fredford/cmput404/tree/main/lab2
