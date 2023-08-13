@@ -9,6 +9,7 @@ The following are labs and tasks completed in CMPUT404.
 - [Lab 3 - CGI](lab3/README.md)
 - [Lab 4 - Django Webserver](lab4/README.md)
 - [Lab 6 - Heroku](lab6/README.md)
+- [Lab 7 - Flask Basics](lab7/README.md)
 
 ## Assignments
 
