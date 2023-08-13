@@ -1,0 +1,119 @@
+* Explore HTML and CSS
+** Description
+
+   You will get experience with existing HTML and CSS and you will
+   make some of your own as well.
+
+** Collaboration
+   - You may consult with others but the submission should be your
+     own source code.
+   - Collaboration but document it in the README.md file
+   - Any external source code must be referenced and documented in
+     the README.md file
+
+** Part I
+
+   Add 1 CSS to 3 project Gutenberg documents that have more than 3
+   chapters each.
+
+   Change the look and feel of 3 project Gutenberg HTML documents of your
+   choosing, I recommend making the documents look old using serif
+   fonts use yellowish or paper-like backgrounds:
+
+   http://www.gutenberg.org/browse/scores/top
+
+   Some of these books are archaic and subscribe to archaic and
+   outdated values. If they offend you, choose something else from
+   the Gutenberg catalogue.
+
+*** Requirements
+
+    - [ ] Theme paragraphs with CSS
+    - [ ] Theme header tags with CSS
+    - [ ] Theme images and images captions with CSS
+    - [ ] Change the colour scheme to something aesthetically pleasing
+    - [ ] Apply 1 CSS file to 3 gutenberg documents.
+    - [ ] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
+    - [ ] document in your README what modifications you had to make
+      to the project gutenberg HTML files.
+    - [ ] Take 3 screenshots of firefox running all of your pages that
+      demonstrates your theme.
+
+** Part II 
+
+   You're going to make your own HTML page and you're going to make 2
+   CSS themes for it.
+
+   Emulate the 2nd and 3rd design from this comic: 
+   http://theoatmeal.com/comics/design_hell
+
+   Make 1 good page that you could show an employer. Make 1 bad papge that you would show your friends because it is funny.
+
+   Include at least 3 sections:
+
+   Who you are + photo
+
+   Your professional history
+
+   What you can do for a potential employer/what you have to offer
+
+   Then a sidebar of important points they should know about you.
+
+   Make 1 ugly CSS and 1 good CSS just like the design_hell comic.
+
+   You should make a page good enough you'd actually use it as your homepage.
+
+   If you do not want to disclose personal information then you have to make up the missing information and you do not have to personally identify yourself. If this is too hard then go on Wikipedia and find a famous figure you like and make a webpage for them. I expect the quality of "fake" or biography webpages to be of equal quality to an autobiographical webpage.
+
+*** Requirements
+
+    - [ ] 4 sections: who you are, your history, what you have to
+      offer, important points about you
+    - [ ] 1 Ugly CSS theme
+    - [ ] 1 good CSS theme
+    - [ ] Ugly theme has to be noticeabley different.
+    - [ ] 2 HTML files, each with the same content but different CSS
+    - [ ] your photo (try to keep it professional)
+    - [ ] Take 2 screenshots of firefox running all of your pages that
+      demonstrates your theme.
+    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
+    - [ ] homepage/good.html should host your good page
+    - [ ] homepage/ugly.html should host your ugly page
+    - [ ] gutenberg/1.html should host your first gutenberg book
+    - [ ] gutenberg/2.html should host your second gutenberg book
+    - [ ] gutenberg/3.html should host your third gutenberg book
+    - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
+
+** Restrictions
+   - [ ] You may use Python
+   - [ ] Must run in your VM (Firefox and Chromium)
+   - [ ] License your content properly (use a Creative Commons License
+     like CC-BY-ND or CC-BY-SA)
+     - Put your name on it!
+   - [ ] If you borrow CSS, always cite the author and the source
+
+** Recommendations
+
+   - Go look at CSS on the internet. Check the licenses.
+
+   - Look how things are achieved.
+
+** Submission Instructions
+   - Fork my repository from github
+     https://github.com/abramhindle/CMPUT404-assignment-css-hell
+     git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+   - Push your commits to your fork
+   - In EClass for this assignment submit a URL to the git
+     repository. I would prefer github for the host.
+     - Line 1: the git URL
+     - Line 2: Your CCID
+     - Line 3: Your collaborator's CCID
+
+** Marking
+   - Marks are given only when requirements are met.
+   - 3 for the appropriate skinning the gutenberg stories with new CSS. Including HTML files.
+   - 3 marks for the 2 versions of your page. Including HTML files.
+   - 1 mark for making the CSS for your promotion pages look as close
+     to theoatmeal comic as possible (don't steal his images).
+
+   Marks will be deducted for lack of screenshots and lack of README or wrong file locations. 

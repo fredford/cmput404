@@ -1,0 +1,111 @@
+.column1 {
+  width: 33%;
+  float: left;
+  margin: 10px;
+}
+
+.column2 {
+  width: 33%;
+  float: left;
+  margin: 10px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Color Scheme */
+/* https://www.schemecolor.com/pastel-mint-and-coral.php */
+
+/* https://www.w3schools.com/html/html_links_colors.asp */
+
+section {
+  float: left;
+}
+
+/* ----- Headers ----- */
+
+h1 {
+  background-color: #fdaa9d;
+  color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid #000000;
+  text-align: center;
+}
+
+h2 {
+  background-color: #d9fae0;
+  color: #000000;
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+  border: 1px solid #000000;
+}
+
+/* ----- Nav Bar -----*/
+nav {
+  background-color: #ffd4c2;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  border: 1px solid #000000;
+}
+
+.nav-li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a:hover {
+  background-color: lightblue;
+  color: black;
+}
+
+a:link {
+  color: Black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: Black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+/* ----- Body ----- */
+
+body {
+  background-color: #afe3ce;
+  font-family: "Helvetica";
+}
+
+section.content {
+  float: left;
+  width: 60%;
+  background-color: #c7f0dc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #000000;
+}
+
+aside {
+  width: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: #ffe5d1;
+  border: 1px solid #000000;
+}

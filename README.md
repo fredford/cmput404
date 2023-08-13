@@ -13,3 +13,4 @@ The following are labs and tasks completed in CMPUT404.
 
 - [Assignment 1 - Webserver](assignment1/README.md)
 - [Assignment 2 - Web Client](assignment2/README.md)
+- [Assignment 3 - CSS Hell](assignment3/README.md)
