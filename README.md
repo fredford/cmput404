@@ -8,6 +8,7 @@ The following are labs and tasks completed in CMPUT404.
 - [Lab 2 - Sockets](lab2/README.md)
 - [Lab 3 - CGI](lab3/README.md)
 - [Lab 4 - Django Webserver](lab4/README.md)
+- [Lab 6 - Heroku](lab6/README.md)
 
 ## Assignments
 
