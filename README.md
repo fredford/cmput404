@@ -8,3 +8,4 @@ The following are labs and tasks completed in CMPUT404.
 - [Lab 2](lab2/README.md)
 - [Lab 3](lab3/README.md)
 - [Lab 4](lab4/README.md)
+- [Lab 5](lab5/README.md)
